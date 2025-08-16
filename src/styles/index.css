@@ -1,0 +1,14 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root { color-scheme: dark; }
+
+html, body, #root { height: 100%; }
+
+/* Subtle scroll smoothing */
+html { scroll-behavior: smooth; }
+
+/* Focus ring */
+* :focus-visible { outline: 2px solid theme(colors.kaspa.500); outline-offset: 2px; }

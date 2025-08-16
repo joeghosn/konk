@@ -1,0 +1,45 @@
+# Node / Vite / React / Tailwind common
+node_modules/
+
+# Build output
+/dist/
+/.vite/
+.vite/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Editor settings
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Env files
+.env
+.env.*
+!.env.example
+
+# TypeScript
+*.tsbuildinfo
+
+# Coverage
+coverage/
+
+# Local caches
+.parcel-cache/
+.cache/
+.eslintcache
+.stylelintcache
+
+# Mac, Windows
+Icon?
+$RECYCLE.BIN/
+
+# Optional: lockfiles if not used
+# package-lock.json
+# yarn.lock
+# pnpm-lock.yaml
