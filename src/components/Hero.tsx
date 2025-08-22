@@ -17,9 +17,7 @@ export default function Hero() {
             on Moonbound
           </h1>
           <p className="mt-4 text-white/75 text-lg max-w-xl">
-            A high-energy meme coin launching fair and square on{" "}
-            <strong>Moonbound</strong>, the first fair-launch launchpad on
-            Kaspa.
+            Bonk vibes, Kaspa chain. Welcome to KONK.
           </p>
           <div className="mt-8 flex flex-wrap gap-4">
             <GlowButton

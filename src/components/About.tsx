@@ -5,19 +5,15 @@ export default function About() {
   return (
     <section id="about" className="py-20">
       <Container>
-        <SectionTitle
-          eyebrow="About"
-          title="What is KONK?"
-          subtitle="Kaspa speed. Bonk energy. Fair-launch ethos."
-        />
+        <SectionTitle eyebrow="About" title="What is KONK?" />
         <div className="grid md:grid-cols-2 gap-10 items-center">
           <div className="text-white/80 text-base leading-7">
             <p>
-              KONK (Kaspa Bonk) is a meme coin powered by the Kaspa community
-              and fueled by the wild energy of Bonk culture. Built for speed,
-              fun, and transparency, we’re launching on Moonbound so everyone
-              gets a fair shot—no insiders, no shady deals. Just a straight-up,
-              community-first coin for anyone ready to join the ride.
+              KONK (Kaspa Bonk) is Kaspa’s very own Bonk. Just as Bonk became
+              one of the biggest tokens on Solana, KONK aims to do the same on
+              Kaspa. It will be among the first tokens to launch fairly on
+              Moonbound once mainnet goes live. Cute and adorable — join in, or
+              get bonked.
             </p>
             <ul className="mt-6 grid sm:grid-cols-2 gap-3 text-white/75">
               <li className="flex items-center gap-2">
@@ -26,7 +22,7 @@ export default function About() {
               </li>
               <li className="flex items-center gap-2">
                 <span className="size-2 rounded-full bg-bonk-500" /> 100%
-                community
+                Organic growth
               </li>
             </ul>
           </div>

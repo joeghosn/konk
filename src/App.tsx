@@ -4,7 +4,6 @@ import Hero from "./components/Hero";
 import About from "./components/About";
 import HowToBuy from "./components/HowToBuy";
 import CommunityCTA from "./components/CommunityCTA";
-import FAQ from "./components/FAQ";
 import Footer from "./components/Footer";
 import Starfield from "./components/Starfield";
 
@@ -20,7 +19,6 @@ export default function App() {
       <About />
       <HowToBuy />
       <CommunityCTA />
-      <FAQ />
       <Footer />
     </main>
   );

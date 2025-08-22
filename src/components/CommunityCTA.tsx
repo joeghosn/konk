@@ -12,8 +12,8 @@ export default function CommunityCTA() {
               Join the KONKmunity
             </h3>
             <p className="mt-2 text-white/75 max-w-2xl">
-              Hop in our Telegram, follow on X, and help KONK bark, and roar
-              across Kaspa.
+              Join our Telegram, follow us on X, and help KONK domninate Kaspa
+              just like BONK.
             </p>
             <div className="mt-6 flex flex-wrap gap-4">
               <a

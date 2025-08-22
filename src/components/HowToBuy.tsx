@@ -15,13 +15,13 @@ export default function HowToBuy() {
       icon: Coins,
     },
     {
-      title: "Go to Moonbound",
-      desc: "Open the Moonbound fair-launch page for KONK.",
+      title: "Wait for Launch",
+      desc: "We’ll share the contract address on our socials — follow us so you don’t miss it.",
       icon: Settings,
     },
     {
-      title: "Participate Fairly",
-      desc: "Follow the launch instructions and receive $KONK.",
+      title: "Buy $KONK",
+      desc: "Open Moonbound, connect your wallet, and swap KAS for $KONK.",
       icon: Rocket,
     },
   ] as const;
