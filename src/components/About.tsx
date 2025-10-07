@@ -26,15 +26,6 @@ export default function About() {
               </li>
             </ul>
           </div>
-          {/* DROPZONE: ABOUT_IMAGE (PNG/SVG, 900x900) */}
-          <div className="relative aspect-square rounded-3xl bg-gradient-to-br from-white/5 to-white/0 border border-white/10 overflow-hidden">
-            <div className="absolute inset-0 grid place-items-center">
-              <div className="size-40 rounded-3xl bg-gradient-to-br from-bonk-500/15 to-kaspa-500/15 animate-float" />
-            </div>
-            <div className="absolute inset-x-8 bottom-6 text-center text-white/60 text-sm">
-              /* ABOUT_IMAGE placeholder – swap with KONK art */
-            </div>
-          </div>
         </div>
       </Container>
     </section>
